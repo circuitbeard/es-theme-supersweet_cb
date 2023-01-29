@@ -134,8 +134,8 @@ version         1.0
       </text>
       <rating name="md_rating">
          <zIndex>44</zIndex>       
-         <pos>0.7 0.46</pos>
-         <size>0.065 0.065</size>
+         <pos>0.625 0.46</pos>
+         <size>0.055 0.055</size>
          <filledPath>./_inc/images/star_filled.png</filledPath>
          <unfilledPath>./_inc/images/star_empty.png</unfilledPath>
       </rating>
