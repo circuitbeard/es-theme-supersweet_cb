@@ -71,9 +71,9 @@ version         1.0
    <view name="detailed,video">
       <textlist name="gamelist">      
          <selectorColor>1c1c1c00</selectorColor>                     
-         <pos>0.32 0.02</pos>
-         <size>0.33 0.7</size>
-         <selectedColor>ff0000</selectedColor>
+         <pos>0.3 0.02</pos>
+         <size>0.33 0.9</size>
+         <selectedColor>ffcc00</selectedColor>
          <primaryColor>ffffff</primaryColor>
          <secondaryColor>ffffff</secondaryColor>
          <fontPath>./_inc/fonts/Cabin-Bold-TTF.ttf</fontPath>
@@ -90,7 +90,7 @@ version         1.0
          <selectorColor>1c1c1c00</selectorColor>                     
          <pos>0.36 0.0305</pos>
          <size>0.57 0.9</size>
-         <selectedColor>ff0000</selectedColor>
+         <selectedColor>ffcc00</selectedColor>
          <primaryColor>ffffff</primaryColor>
          <secondaryColor>ffffff</secondaryColor>
          <fontPath>./_inc/fonts/Cabin-Bold-TTF.ttf</fontPath>
@@ -117,7 +117,7 @@ version         1.0
          <origin>0 0</origin>
          <pos>0 0</pos>
          <size>1 1</size>       
-         <path>./_inc/images/systemvideo.png</path>
+         <path>./_inc/images/systembasic2.png</path>
       </image>    
       <text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_lastplayed, md_lbl_playcount, md_rating, md_developer, md_publisher, md_genre, md_playcount, md_lastplayed">
          <pos>1 1</pos>
@@ -186,8 +186,8 @@ version         1.0
       <text name="md_description">
          <fontSize>0.02</fontSize>      
          <color>10ff28</color>      
-         <pos>0.328 0.778</pos>
-         <size>0.67 0.16</size>
+         <pos>1.38 0.778</pos>
+         <size>0.2 0.16</size>
          <zIndex>42</zIndex>         
       </text>
    </view>
