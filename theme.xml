@@ -140,35 +140,35 @@ version         1.0
          <unfilledPath>./_inc/images/star_empty.png</unfilledPath>
       </rating>
       <text name="md_lbl_players">
-         <pos>0.5 0.54</pos>
+         <pos>0.65 0.54</pos>
          <size>0.2 0.035</size>
          <color>ffcc00</color>
          <zIndex>42</zIndex>                  
       </text>
       <text name="md_players">
-         <pos>0.6 0.54</pos>
+         <pos>0.75 0.54</pos>
          <size>0.2 0.035</size>
          <zIndex>42</zIndex>         
       </text>
       <text name="md_lbl_releasedate">
-         <pos>0.5 0.59</pos>
+         <pos>0.65 0.59</pos>
          <size>0.2 0.035</size>
          <color>ffcc00</color>
          <zIndex>42</zIndex>                  
       </text>
       <datetime name="md_releasedate">
-         <pos>0.6 0.59</pos>
+         <pos>0.75 0.59</pos>
          <size>0.2 0.035</size>
          <zIndex>42</zIndex>         
       </datetime>
       <text name="md_lbl_genre">
-         <pos>0.5 0.64</pos>
+         <pos>0.65 0.64</pos>
          <size>0.2 0.035</size>
          <color>ffcc00</color>
          <zIndex>42</zIndex>                   
       </text>
       <text name="md_genre">
-         <pos>0.6 0.64</pos>
+         <pos>0.75 0.64</pos>
          <size>0.2 0.035</size>
          <zIndex>42</zIndex>         
       </text>         
@@ -185,8 +185,8 @@ version         1.0
       </text>
       <text name="md_description">
          <fontSize>0.02</fontSize>      
-         <color>10ff28</color>      
-         <pos>0.5 0.778</pos>
+         <color>ffffff</color>      
+         <pos>0.65 0.778</pos>
          <size>0.2 0.16</size>
          <zIndex>42</zIndex>         
       </text>
