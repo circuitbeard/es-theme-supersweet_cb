@@ -77,7 +77,7 @@ version         1.0
          <primaryColor>ffffff</primaryColor>
          <secondaryColor>ffffff</secondaryColor>
          <fontPath>./_inc/fonts/Cabin-Bold-TTF.ttf</fontPath>
-         <fontSize>0.028</fontSize>
+         <fontSize>0.029</fontSize>
          <forceUppercase>1</forceUppercase>
          <scrollSound></scrollSound>
          <alignment>left</alignment>
