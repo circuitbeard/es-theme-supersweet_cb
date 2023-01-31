@@ -194,7 +194,7 @@ version         1.0
 
    <view name="detailed">
       <image name="md_image">
-         <pos>0.775 0.2</pos>
+         <pos>0.775 0.1</pos>
          <maxSize>0.3 0.3</maxSize>
          <zIndex>41</zIndex>         
       </image>      
