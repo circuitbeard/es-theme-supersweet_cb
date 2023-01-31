@@ -162,24 +162,24 @@ version         1.0
          <zIndex>42</zIndex>         
       </datetime>
       <text name="md_lbl_genre">
-         <pos>0.625 0.65</pos>
+         <pos>0.625 0.62</pos>
          <size>0.2 0.035</size>
          <color>ffcc00</color>
          <zIndex>42</zIndex>                   
       </text>
       <text name="md_genre">
-         <pos>0.725 0.65</pos>
+         <pos>0.725 0.62</pos>
          <size>0.2 0.035</size>
          <zIndex>42</zIndex>         
       </text>         
       <text name="md_lbl_developer">
-         <pos>1.38 0.485</pos>
+         <pos>0.625 0.67</pos>
          <size>1.12 0.035</size>
          <color>ffcc00</color>
          <zIndex>42</zIndex>                   
       </text>
       <text name="md_developer">
-         <pos>1.38 0.515</pos>
+         <pos>0.725 0.67</pos>
          <size>0.12 0.035</size>
          <zIndex>42</zIndex>                  
       </text>
