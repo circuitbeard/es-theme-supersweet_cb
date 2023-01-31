@@ -186,8 +186,8 @@ version         1.0
       <text name="md_description">
          <fontSize>0.02</fontSize>      
          <color>ffffff</color>      
-         <pos>0.625 0.74</pos>
-         <size>0.32 0.21</size>
+         <pos>0.625 0.7425</pos>
+         <size>0.32 0.2075</size>
          <zIndex>42</zIndex>         
       </text>
    </view>
