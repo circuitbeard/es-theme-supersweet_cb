@@ -140,13 +140,13 @@ version         1.0
          <unfilledPath>./_inc/images/star_empty.png</unfilledPath>
       </rating>
       <text name="md_lbl_players">
-         <pos>0.625 0.4</pos>
+         <pos>0.625 0.5</pos>
          <size>0.2 0.035</size>
          <color>ffcc00</color>
          <zIndex>42</zIndex>                  
       </text>
       <text name="md_players">
-         <pos>0.725 0.45</pos>
+         <pos>0.725 0.525</pos>
          <size>0.2 0.035</size>
          <zIndex>42</zIndex>         
       </text>
